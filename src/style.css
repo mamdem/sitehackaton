@@ -1,0 +1,61 @@
+.bg{
+    background-color: rgb(240 236 223);
+}
+.bg_nav{
+    background-color: rgb(198 191 172);
+}
+.sidenav  li{
+    border:1px solid rgb(223, 213, 213);
+    margin-top: 5px;
+}
+.logo{
+    height: 50px;
+}
+.brand-logo{
+    vertical-align: middle;
+}
+.texte_logo{
+    vertical-align: top;
+    font-size: 15px !important;
+}
+.li_nav{
+    /* color: white!important; */
+}
+.li_nav:active{
+    background-color: rgb(240 236 223);
+    color: black!important;
+}
+.card{
+    background-color: none !important;
+}
+.speakers{
+    background-color: #c6bfac !important;
+}
+.texte_jaune{
+    color: white !important;
+}
+.card_le_ptn{
+    padding: 10px !important;
+}
+.lien_ptn{
+    /* border: 1px  solid rgb(114, 114, 170); */
+}
+.form_postuler{
+    padding:20px;
+}
+.div_count_down{
+    padding: 35px;
+}
+
+.texte_programme{
+    font-size: 20px;
+}
+
+.bg_fond_ptn{
+    background-image: url("./images/fond_monte/2.png");
+    background-size: cover;
+}
+.bg_fantome{
+    background-image: url("./images/fond_monte/fantome.png");
+    background-size: cover;
+}
